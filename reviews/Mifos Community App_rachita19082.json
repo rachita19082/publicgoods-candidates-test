@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Add additional comment for testing",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "This is for the required meaningful comment to be written",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "",
+    "confidence": "1"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "rachita19082",
+  "timestamp": 1619861597,
+  "timeTaken": 4256
+}
